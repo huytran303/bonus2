@@ -1,5 +1,27 @@
 {
   "expo": {
+    "name": "thoughtful-yellow-marshmallows",
+    "slug": "thoughtful-yellow-marshmallows",
+    "owner": "huytran303",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "android": {
+      "package": "com.se1928nj.he194355.buildapk",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
     "extra": {
       "eas": {
         "projectId": "79ad9ce3-fc3e-4d97-8348-02b9f9696a71"
